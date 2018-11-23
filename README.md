@@ -12,3 +12,5 @@ __simulation.py__ drives the simulation and handles communication between nodes
 __node.py__ node behaviour is in here
 
 __ca.py__ the cellular automaton
+
+To run the code, run either __main_graphical.py__ or __main_experiments.py__. Set the parameters for the runs in these python files.
